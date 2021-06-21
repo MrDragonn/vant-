@@ -1,3 +1,4 @@
+```
 <template>
    <van-field
               v-model="durationDay"
@@ -42,3 +43,4 @@ onMounted(() => {
     });
 
 </script>
+```
